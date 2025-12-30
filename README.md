@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AymsQuant/OHLCGrabber/main/logo.png" width="280">
+  <img src="https://avatars.githubusercontent.com/u/75583946?v=4" width="280">
 </p>
 
 <p align="center">
